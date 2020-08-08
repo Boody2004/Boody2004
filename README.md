@@ -11,5 +11,5 @@ Here are some ideas to get you started: https://week-days.herokuapp.com/
 - 💬 Ask me about ...Writing Code/Vue.js
 - 📫 How to reach me: ...Email: boodyatef665@gmail.com / phone: 01270951250 / instagram:https://www.instagram.com/be2004boody/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I'm Harlf Egpt
 -->
