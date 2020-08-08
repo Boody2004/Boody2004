@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: https://week-days.herokuapp.com/
 
 - 🔭 I’m currently working on ...YouTube
 - 🌱 I’m currently learning ...Vue.js
