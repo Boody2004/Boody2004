@@ -1,5 +1,7 @@
 ### Hi I'm Abdeleahman. 👋
 
+* computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
+
 ![](https://i.imgur.com/wXZ7x7m.jpg)
 
 -Here are some ideas to get you started:https://boody-be-portfolio.herokuapp.com/
