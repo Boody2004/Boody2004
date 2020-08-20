@@ -1,4 +1,4 @@
-### Hi I'm Abdeleahman. 👋
+### Hi I'm Abdeleahman, 👋 a developer who's from the land of mysteries, Egypt.
 
 **Talking about Personal Stuffs:**
 
@@ -8,6 +8,7 @@
 * Fun-Fact #2: I love swimming
 
 ![](https://i.imgur.com/wXZ7x7m.jpg)
+
 
 * Here are some ideas to get you started:https://boody-be-portfolio.herokuapp.com/
 
