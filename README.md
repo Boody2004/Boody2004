@@ -4,7 +4,7 @@
 
 **Talking about Personal Stuffs:**
 
-* computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
+* 💬 computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
 * bulb An enthusiast for Flutter and a big fan of Vue
 
 - 🔭 I’m currently working on ...YouTube https://www.youtube.com/channel/UCV0rsMa2ULOCE8NP5LtM_xg?view_as=subscriber
@@ -13,8 +13,8 @@
 
 - 🤔 I’m looking for help with ...Hazem Gharib / https://www.instagram.com/hazem.gharib.8/
 - 💬 Ask me about ...Writing Code/Vue.js
-- 📫 How to reach me: ...Email: boodyatef665@gmail.com / phone: 01270951250 / instagram:https://www.instagram.com/be2004boody/
-- 😄 Pronouns: ...
+- 📫 How to reach me: ...Email: boodyatef665@gmail.com 
+  / phone: 01270951250 / instagram:https://www.instagram.com/be2004boody/
 
   ⚡ zap Fun-Fact #1: I have a degree in Electrical engineering
   ⚡ Fun-Fact #2: I love swimming
