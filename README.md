@@ -17,6 +17,7 @@
   / phone: 01270951250 / instagram:https://www.instagram.com/be2004boody/
 
   ⚡ zap Fun-Fact #1: I have a degree in Electrical engineering
+  
   ⚡ Fun-Fact #2: I love swimming
 ---
 * Here are some ideas to get you started: https://test-first-project.herokuapp.com/
