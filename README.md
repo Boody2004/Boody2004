@@ -1,20 +1,11 @@
-### Hi I'm Abdeleahman, 👋 a developer who's from the land of mysteries, Egypt.
+### Hi I'm Abdeleahman. 👋 a developer who's from the land of mysteries, Egypt.
+
+![](https://i.imgur.com/wXZ7x7m.jpg)
 
 **Talking about Personal Stuffs:**
 
 * computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
 * bulb An enthusiast for Flutter and a big fan of Vue
-* zap Fun-Fact #1: I have a degree in Electrical engineering
-* Fun-Fact #2: I love swimming
-
-![](https://i.imgur.com/wXZ7x7m.jpg)
-
-
-* Here are some ideas to get you started:https://boody-be-portfolio.herokuapp.com/
-
-* Here are some ideas to get you started: https://test-first-project.herokuapp.com/
-
-* Here are some ideas to get you started: https://week-days.herokuapp.com/
 
 - 🔭 I’m currently working on ...YouTube https://www.youtube.com/channel/UCV0rsMa2ULOCE8NP5LtM_xg?view_as=subscriber
 - 🌱 I’m currently learning ...Vue.js/HTML/Css/Javascript/C++/ُُEducation-Fore-Code-For-Raspberry-Pi 
@@ -24,5 +15,9 @@
 - 💬 Ask me about ...Writing Code/Vue.js
 - 📫 How to reach me: ...Email: boodyatef665@gmail.com / phone: 01270951250 / instagram:https://www.instagram.com/be2004boody/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...I'm Harlf Egpt
 
+  ⚡ zap Fun-Fact #1: I have a degree in Electrical engineering
+  ⚡ Fun-Fact #2: I love swimming
+---
+* Here are some ideas to get you started: https://test-first-project.herokuapp.com/
+* Here are some ideas to get you started: https://week-days.herokuapp.com/
