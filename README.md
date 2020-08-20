@@ -1,13 +1,13 @@
 ### Hi I'm Abdeleahman. 👋
 
 * computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
+* bulb An enthusiast for Flutter and a big fan of Vue
+* zap Fun-Fact #1: I have a degree in Electrical engineering
 
 ![](https://i.imgur.com/wXZ7x7m.jpg)
 
 -Here are some ideas to get you started:https://boody-be-portfolio.herokuapp.com/
-
 -Here are some ideas to get you started: https://test-first-project.herokuapp.com/
-
 -Here are some ideas to get you started: https://week-days.herokuapp.com/
 
 - 🔭 I’m currently working on ...YouTube https://www.youtube.com/channel/UCV0rsMa2ULOCE8NP5LtM_xg?view_as=subscriber
