@@ -1,8 +1,11 @@
 ### Hi I'm Abdeleahman. 👋
 
+**Talking about Personal Stuffs:**
+
 * computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
 * bulb An enthusiast for Flutter and a big fan of Vue
 * zap Fun-Fact #1: I have a degree in Electrical engineering
+* Fun-Fact #2: I love swimming
 
 ![](https://i.imgur.com/wXZ7x7m.jpg)
 
