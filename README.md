@@ -4,7 +4,7 @@
 
 **Talking about Personal Stuffs:**
 
-* 💬 computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
+* 💻 computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
 * bulb An enthusiast for Flutter and a big fan of Vue
 
 - 🔭 I’m currently working on ...YouTube https://www.youtube.com/channel/UCV0rsMa2ULOCE8NP5LtM_xg?view_as=subscriber
