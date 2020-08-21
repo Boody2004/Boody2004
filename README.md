@@ -4,9 +4,8 @@
 
 **Talking about Personal Stuffs:**
 
-* 💻 computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
-* bulb An enthusiast for Flutter and a big fan of Vue
-
+- 💻 computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
+- 🧑 bulb An enthusiast for Flutter and a big fan of Vue
 - 🔭 I’m currently working on ...YouTube https://www.youtube.com/channel/UCV0rsMa2ULOCE8NP5LtM_xg?view_as=subscriber
 - 🌱 I’m currently learning ...Vue.js/HTML/Css/Javascript/C++/ُُEducation-Fore-Code-For-Raspberry-Pi 
 - 👯 I’m looking to collaborate on ...Vue.js/HTML/CSSظJavaScript
@@ -19,5 +18,6 @@
   * ⚡ zap Fun-Fact #1: I have a degree in Electrical engineering
   * ⚡ Fun-Fact #2: I love swimming
 ---
+* Here are some ideas to get you started: https://boody-be-portfolio.herokuapp.com/
 * Here are some ideas to get you started: https://test-first-project.herokuapp.com/
 * Here are some ideas to get you started: https://week-days.herokuapp.com/
