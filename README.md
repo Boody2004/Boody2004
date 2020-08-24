@@ -35,9 +35,3 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-[website]: https://webcifar.com
-[youtube]: https://www.youtube.com/channel/UCV0rsMa2ULOCE8NP5LtM_xg?view_as=subscriber
-[webdevplaylist]: https://www.youtube.com/channel/UCdxaLo9ALJgXgOUDURRPGiQ/playlists
-[jsplaylist]: https://www.youtube.com/playlist?list=PLRv_Gd5w9e7mmALZQWt_DJErngAFLp-aV
-[HTMLcssplaylist]: https://www.youtube.com/playlist?list=PLRv_Gd5w9e7mmrNLpQTB9RWMsVoRt2moe
