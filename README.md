@@ -13,9 +13,8 @@
 - 💬 Ask me about ...Writing Code/Vue.js
 - 📫 How to reach me: ...Email: boodyatef665@gmail.com 
   / phone: 01270951250 / instagram:https://www.instagram.com/be2004boody/
-
- * ⚡ zap Fun-Fact #1: I have a degree in Electrical engineering
- * ⚡ Fun-Fact #2: I love swimming
+- ⚡ zap Fun-Fact #1: I have a degree in Electrical engineering
+- ⚡ Fun-Fact #2: I love swimming
  
 ---
 
