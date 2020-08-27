@@ -28,7 +28,7 @@
  
 ---
 
-* Here are some ideas to get you started: 
+* Here are some ideas to get you started: https://boody-be-portfolio.herokuapp.com/#projects
 * Here are some ideas to get you started: https://test-first-project.herokuapp.com/
 * Here are some ideas to get you started: https://week-days.herokuapp.com/
 
