@@ -1,4 +1,4 @@
-# Hi I'm Abdeleahman. 👋 a developer who's from the land of mysteries, Egypt.![](https://i.imgur.com/5eg62yE.png)
+# Hi I'm Abdeleahman. 👋 a developer who's from the land of mysteries, Egypt.!
 
 
 <p>
