@@ -1,6 +1,8 @@
 # Hi I'm Abdeleahman. 👋 a developer who's from the land of mysteries, Egypt.
 
 <p>
+<a href="mailto:boodyatef665@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...">
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
   <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
   <img src="https://img.shields.io/badge/OS-Windo-dd4814"/>
   <img src="https://img.shields.io/badge/OS-Ubuntu-dd4814"/>
