@@ -2,12 +2,11 @@
 
 <p>
 <a href="mailto:boodyatef665@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...">
-  <img src="https://img.shields.io/badge/Ask%20me-anything-68b0ab.svg"/></a>
-  <img src="https://img.shields.io/badge/Front End-Vue.js-a3d2ca"/>
-    <img src="https://img.shields.io/badge/Front End-React.js-a3d2ca"/>
-
-  <img src="https://img.shields.io/badge/OS-Windo-ed6663"/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu-ed6663"/>
+  <img src="https://img.shields.io/badge/Ask%20me-anything-50d890.svg"/></a>
+  <img src="https://img.shields.io/badge/Front End-Vue.js-ff1e56"/>
+  <img src="https://img.shields.io/badge/Front End-React.js-05dfd7"/>
+  <img src="https://img.shields.io/badge/OS-Windo-ffd31d"/>
+  <img src="https://img.shields.io/badge/OS-Ubuntu-00bcd4"/>
 </p>
 
 ---
