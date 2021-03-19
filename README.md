@@ -35,8 +35,8 @@
  
 ---
 
-* Here are some ideas to get you started: https://boody-be-portfolio.herokuapp.com/
-* Here are some ideas to get you started: https://test-first-project.herokuapp.com/
+* Here are some ideas to get you started: https://abd-elrahman-be-portfolio.herokuapp.com/
+* Here are some ideas to get you started: https://teacher-site.herokuapp.com/
 * Here are some ideas to get you started: https://week-days.herokuapp.com/
 
 ---
