@@ -11,7 +11,7 @@
 
 ---
 
-![](https://i.imgur.com/wXZ7x7m.jpg)
+![](https://imgur.com/a/424llQN)
 
 **Talking about Personal Stuffs:**
 
