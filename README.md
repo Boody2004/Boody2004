@@ -1,12 +1,12 @@
-# Hi I'm Abdeleahman. 👋 a developer who's from the land of mysteries, Egypt.
+# 👋 Hi I'm Abdeleahman a front end developer who's from the land of mysteries, Egypt.
 
 <p>
-<a href="mailto:boodyatef665@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...">
-  <img src="https://img.shields.io/badge/Ask%20me-anything-50d890.svg"/></a>
-  <img src="https://img.shields.io/badge/Front End-Vue.js-ff1e56"/>
-  <img src="https://img.shields.io/badge/Front End-React.js-05dfd7"/>
-  <img src="https://img.shields.io/badge/OS-Windo-ffd31d"/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu-00bcd4"/>
+<a href="mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...">
+  <img src="https://img.shields.io/badge/Ask%20me-anything-ff1e56.svg"/></a>
+    <img src="https://img.shields.io/badge/Tool-Vs code-269BEA"/>
+  <img src="https://img.shields.io/badge/Framework-Vue.js-50d890"/>
+    <img src="https://img.shields.io/badge/OS-Ubuntu-F15126"/>
+  <img src="https://img.shields.io/badge/OS-Windo-4FB1F3"/>
 </p>
 
 ---
@@ -15,45 +15,36 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on 
-  - YouTube: https://www.youtube.com/channel/UCV0rsMa2ULOCE8NP5LtM_xg?view_as=subscriber
-- 🌱 I’m currently learning 
-  - Vue.js,HTML,Css,Javascript,C++,Education-Fore-Code-For-Raspberry-Pi 
 - 👯 I’m looking to collaborate on 
-  - Vue.js,HTML,CSS,JavaScript
-- 🤔 I’m looking for help with 
-  - Hazem Gharib: https://www.instagram.com/hazem.gharib.8/
+  - HTML, Css, Javascript, Bootstrap5, Vue.js, C++
+- 🌱 I’m currently learning 
+  - Backend, Node, Firebase, ES6, Sass
 - 💬 Ask me about 
   - Writing Code/Vue.js
 - 📫 How to reach me: 
-  - Email: boodyatef665@gmail.com 
-  - phone: 01270951250 
-  - instagram: https://www.instagram.com/be2004boody/
+  - <a href="abdelrahmanatefalibe@gmail.com ">Email</a>
+  - phone: +20 1270951250 
+  - <a href="[mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...](https://www.instagram.com/boody_04/)">Instagram</a>
 - 💬 computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
- * ⚡ zap Fun-Fact #1: I have a degree in Electrical engineering
- * ⚡ Fun-Fact #2: I love swimming
+ * ⚡ zap Fun-Fact: I have a degree in Electrical Engineering
+ *  Fun-Fact: I love swimming
  
 ---
 
 * Here are some ideas to get you started: https://boody-be-portfolio.herokuapp.com/
-* Here are some ideas to get you started: https://test-first-project.herokuapp.com/
 * Here are some ideas to get you started: https://week-days.herokuapp.com/
 
 ---
 
 ### Languages and Tools:
 
-<code><img align="left" alt="Visual Studio Code" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img align="left" alt="HTML5" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img align="left" alt="CSS3" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img align="left" alt="Sass" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img align="left" alt="JavaScript" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img align="left" alt="Bootstrap5" width="5%" src="https://wallpaperaccess.com/full/4623107.png" /></code>
+<code><img align="left" alt="Sass" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
+<code><img align="left" alt="Vue.js" width="5%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWTYIVbQlC9W04eYSCHJdSVhzYrklZ3D3ZYHzWXuCIMG3fYrsVQQY1SOWU3HfhT6esfg&usqp=CAU" /></code>
 <code><img align="left" alt="Node.js" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
+<code><img align="left" alt="Git" width="5%" src="https://qph.fs.quoracdn.net/main-qimg-728ff5a8e44d74cd0f2359ef0a9ec88a" /></code>
 <code><img align="left" alt="GitHub" width="5%" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-
-<br>
-<br>
- <code><img width="12%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="12%" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/vue.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
- 
+<code><img align="left" alt="Visual Studio Code" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
