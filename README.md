@@ -11,7 +11,7 @@
 
 ---
 
-![](https://res.cloudinary.com/dirbnpgsp/image/upload/v1644890623/WhatsApp_Image_2022-02-15_at_3.43.52_AM_1_dxeyg7.png)
+![](https://res.cloudinary.com/dirbnpgsp/image/upload/v1644890811/img_zmqm8s.png)
 
 **Talking about Personal Stuffs:**
 
