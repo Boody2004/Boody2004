@@ -3,7 +3,7 @@
 <p>
 <a href="mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...">
     <img src="https://img.shields.io/badge/Tool-Vs code-269BEA"/>
-      <img src="https://img.shields.io/badge/Framework-React.js-61daf"/>
+      <img src="https://img.shields.io/badge/Framework-React.js-269BEA"/>
     <img src="https://img.shields.io/badge/Framework-Vue.js-42d39"/>
     <img src="https://img.shields.io/badge/OS-Windo-4FB1F3"/>
      <img src="https://img.shields.io/badge/OS-Ubuntu-F15126"/>
