@@ -18,7 +18,7 @@
 ---
 **Talking about Personal Stuffs:**
 
-<img width="25%" align="right" alt="Abdelrahman " src='https://res.cloudinary.com/dirbnpgsp/image/upload/v1644890811/img_zmqm8s.png' />
+<img width="55%" align="right" alt="Abdelrahman " src='https://res.cloudinary.com/dirbnpgsp/image/upload/v1644890811/img_zmqm8s.png' />
 
 
 - 👯 I’m looking to collaborate on 
