@@ -46,8 +46,7 @@
 
 <img align="right" width="45%" height="165" src="https://github-readme-stats.vercel.app/api?username=Boody2004&show_icons=true&hide_border=false&line_height=20&title_color=0a4595&icon_color=0a4595&show_owner=true"/>
     
-  <br />
-    
+  <br />    
   <code><img width="5%"
 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="5%"
