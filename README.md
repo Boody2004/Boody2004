@@ -1,7 +1,7 @@
 # 👋 Hi I'm Abdeleahman a front end developer who's from the land of mysteries, Egypt.
 
 <p>
-  <a href="mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's         Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...">
+  <a href="mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let'sChat&body=HiBoody-BE%2C%0A%0AI wanted to ask you about ...">
     <img src="https://img.shields.io/badge/Tool-Vs code-269BEA"/>
   <a href="https://github.com/HazemGharib?tab=repositories">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
@@ -43,9 +43,8 @@
 
 **Languages and Tools:**
 <p>
-    
-![GitHub Stats](https://github-readme-stats.vercel.ap0/apiusername=Boody04&theme=radical)
 
+<img align="right" width="45%" height="165" src="https://github-readme-stats.vercel.app/api?username=Boody2004&show_icons=true&hide_border=false&line_height=20&title_color=0a4595&icon_color=0a4595&show_owner=true"/>
     
   <code><img width="5%"
 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
