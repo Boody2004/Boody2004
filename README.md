@@ -18,8 +18,10 @@
 ---
 **Talking about Personal Stuffs:**
 
-![](https://res.cloudinary.com/dirbnpgsp/image/upload/v1644890811/img_zmqm8s.png)
-
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img align="right" width="45%" height="165" src="https://github-readme-stats.vercel.app/api?username=HazemGharib&show_icons=true&hide_border=false&line_height=20&title_color=0a4595&icon_color=0a4595&show_owner=true"/>
+  </a>
+  
 - 👯 I’m looking to collaborate on 
   - HTML, Css, Javascript, Bootstrap5, Vue.js, C++
 - 🌱 I’m currently learning 
