@@ -33,7 +33,7 @@
 ---
 
 * Here are some ideas to get you started: https://boody-be-portfolio.herokuapp.com/
-* Here are some ideas to get you started: https://week-days.herokuapp.com/
+* Here are some ideas to get you started: https://yrwo.herokuapp.com/
 
 ---
 
