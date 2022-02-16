@@ -1,20 +1,24 @@
 # 👋 Hi I'm Abdeleahman a front end developer who's from the land of mysteries, Egypt.
 
 <p>
-<a href="mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...">
+  <a href="mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's         Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...">
     <img src="https://img.shields.io/badge/Tool-Vs code-269BEA"/>
-      <img src="https://img.shields.io/badge/Framework-React.js-269BEA"/>
-    <img src="https://img.shields.io/badge/Framework-Vue.js-42d39"/>
-    <img src="https://img.shields.io/badge/OS-Windo-4FB1F3"/>
-     <img src="https://img.shields.io/badge/OS-Ubuntu-F15126"/>
-    <img src="https://img.shields.io/badge/Ask%20me-anything-ff1e56.svg"/></a>
+  <a href="https://github.com/HazemGharib?tab=repositories">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
+  </a> 
+    <img src="https://img.shields.io/badge/Ask%20me-anything-ff1e56.svg"/>     </a>
+    
+  <img src="https://img.shields.io/badge/Front End-React.js-269BEA"/>    
+  <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>    
+  <img src="https://img.shields.io/badge/Back%20End-Node.js-83af26"/>
+  <img src="https://img.shields.io/badge/OS-Windo-4FB1F3"/>
+  <img src="https://img.shields.io/badge/OS-Ubuntu-dd4814"/>
 </p>
 
 ---
+**Talking about Personal Stuffs:**
 
 ![](https://res.cloudinary.com/dirbnpgsp/image/upload/v1644890811/img_zmqm8s.png)
-
-**Talking about Personal Stuffs:**
 
 - 👯 I’m looking to collaborate on 
   - HTML, Css, Javascript, Bootstrap5, Vue.js, C++
@@ -32,20 +36,36 @@
  
 ---
 
-* Here are some ideas to get you started: https://boody-be-portfolio.herokuapp.com/
-* Here are some ideas to get you started: https://yrwo.herokuapp.com/
+* 💡Here are some ideas to get you started: https://boody-be-portfolio.herokuapp.com/
+* 💡Here are some ideas to get you started: https://week-days.herokuapp.com/
 
 ---
 
-### Languages and Tools:
+**Languages and Tools:**
 
-<code><img align="left" alt="HTML5" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img align="left" alt="CSS3" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img align="left" alt="JavaScript" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img align="left" alt="Bootstrap5" width="5%" src="https://bootstrap.rtlcss.com/docs/4.5/assets/brand/bootstrap-social.png" /></code>
-<code><img align="left" alt="Sass" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
-<code><img align="left" alt="Vue.js" width="5%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWTYIVbQlC9W04eYSCHJdSVhzYrklZ3D3ZYHzWXuCIMG3fYrsVQQY1SOWU3HfhT6esfg&usqp=CAU" /></code>
-<code><img align="left" alt="Node.js" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img align="left" alt="Git" width="5%" src="https://qph.fs.quoracdn.net/main-qimg-728ff5a8e44d74cd0f2359ef0a9ec88a" /></code>
-<code><img align="left" alt="GitHub" width="5%" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img align="left" alt="Visual Studio Code" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<p>
+    
+    ![GitHub Statsl(https://github-readme-stats.vercel.app/api username=Boody04&theme=radical)|
+    
+   <code><img width="13%"
+src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+  <code><img width="13%"
+src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+  <code><img width="13%"
+src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+  <br />
+  <code><img width="13%" 
+src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code>
+  <br />
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <br />
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <br />
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg"></code> 
+</p>
