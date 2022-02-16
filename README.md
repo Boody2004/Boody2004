@@ -42,8 +42,7 @@
 ---
 
 **Languages and Tools:**
-<p>    
-    <img align="right" width="45%" height="165" src="https://github-readme-stats.vercel.app/api?username=HazemGharib&show_icons=true&hide_border=false&line_height=20&title_color=0a4595&icon_color=0a4595&show_owner=true"/>
+<p>
     
 ![GitHub Stats](https://github-readme-stats.vercel.ap0/api username=Boody04&theme=radical)
 
