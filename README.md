@@ -44,7 +44,7 @@
 **Languages and Tools:**
 <p>
     
-![GitHub Stats](https://github-readme-stats.vercel.ap0/api username=Boody04&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.ap0/apiusername=Boody04&theme=radical)
 
     
   <code><img width="5%"
