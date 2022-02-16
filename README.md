@@ -46,6 +46,8 @@
 
 <img align="right" width="45%" height="165" src="https://github-readme-stats.vercel.app/api?username=Boody2004&show_icons=true&hide_border=false&line_height=20&title_color=0a4595&icon_color=0a4595&show_owner=true"/>
     
+  <br />
+    
   <code><img width="5%"
 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="5%"
@@ -55,19 +57,15 @@ src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
   <br />
-  <br />
   <code><img width="5%" 
 src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code>
   <br />
-  <br />    
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <br />
-  <br />    
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <br />
   <br />
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg"></code> 
