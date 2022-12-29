@@ -32,9 +32,14 @@
  
 ---
 
-* 💡Here are some ideas to get you started: https://yrwo.herokuapp.com/
-* 💡Here are some ideas to get you started: https://test-dental-clinic.vercel.app/
-* 💡Here are some ideas to get you started: https://week-days.herokuapp.com/
+* 💡Here are some ideas to get you started: https://linklaunchy.vercel.app/boody_04
+* 💡Here are some ideas to get you started: https://elgalatours.com
+* 💡Here are some ideas to get you started: https://yrwo.herokuapp.com
+* 💡Here are some ideas to get you started: https://test-dental-clinic.vercel.app
+* 💡Here are some ideas to get you started: https://lmtui.vercel.app
+* 💡Here are some ideas to get you started: https://linklaunchy.vercel.app
+* 💡Here are some ideas to get you started: https://launchyqr.vercel.app
+* 💡Here are some ideas to get you started: https://launchytodo.vercel.app
 
 ---
 
