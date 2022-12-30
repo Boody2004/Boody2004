@@ -69,6 +69,7 @@
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <br />
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></code> 
   <code><img width="5%" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/dtokjerhk1dxyludtlwc"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg"></code> 
 </p>
