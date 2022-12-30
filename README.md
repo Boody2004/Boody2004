@@ -52,9 +52,9 @@
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-  <code><img width="5%" src="![image](https://user-images.githubusercontent.com/65117957/210028632-369ddf70-8f38-47b1-af3d-6d0c33ab9d56.png)"></code>
-  <code><img width="5%" src="![image](https://user-images.githubusercontent.com/65117957/210028680-d581ed5c-97f6-49bc-9a2d-a13f7e3700f7.png)"></code>
-  <code><img width="5%" src="![image](https://user-images.githubusercontent.com/65117957/210028729-3a12f850-04cb-416b-87af-90df4387a8ac.png)"></code>
+  <code><img width="5%" src="https://mui.com/static/logo.png"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+  <code><img width="5%" src="https://iconape.com/wp-content/files/lp/371623/svg/371623.svg"></code>
   <br />
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></code>
