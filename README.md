@@ -23,9 +23,7 @@
 - 💬 Ask me about 
   - Writing Code/Vue.js
 - 📫 How to reach me: 
-  - <a href="abdelrahmanatefalibe@gmail.com ">Email</a>
-  - <a href="tel:+201270951250">Phone</a>
-  - <a href="[mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...](https://linklaunchy.vercel.app/boody_04)">Linklaunchy.Boody_04</a>
+  - [Linklaunchy.Boody_04](https://linklaunchy.vercel.app/boody_04)
 - 💬 computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
  * ⚡ zap Fun-Fact: I have a degree in Electrical Engineering
  *  Fun-Fact: I love swimming
