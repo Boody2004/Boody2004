@@ -24,15 +24,14 @@
   - Writing Code/Vue.js
 - 📫 How to reach me: 
   - <a href="abdelrahmanatefalibe@gmail.com ">Email</a>
-  - phone: +20 1270951250 
-  - <a href="[mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...](https://www.instagram.com/boody_04/)">Instagram</a>
+  - <a href="tel:+201270951250">Phone</a>
+  - <a href="[mailto:abdelrahmanatefalibe@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Boody-BE%2C%0A%0AI wanted to ask you about ...](https://linklaunchy.vercel.app/boody_04)">Linklaunchy.Boody_04</a>
 - 💬 computer I’m currently working on Fantasy API, feel free to reach out to me to give it a try
  * ⚡ zap Fun-Fact: I have a degree in Electrical Engineering
  *  Fun-Fact: I love swimming
  
 ---
 
-* 💡Here are some ideas to get you started: https://linklaunchy.vercel.app/boody_04
 * 💡Here are some ideas to get you started: https://elgalatours.com
 * 💡Here are some ideas to get you started: https://yrwo.herokuapp.com
 * 💡Here are some ideas to get you started: https://test-dental-clinic.vercel.app
