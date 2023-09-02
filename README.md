@@ -17,7 +17,7 @@
 
 
 - 👯 I’m looking to collaborate on 
-  - Javascript,React.js. Vue.js, C++, Tailwindcss, Bootstrap5
+  - Javascript, React.js, Vue.js, C++, Tailwindcss, Bootstrap5
 - 🌱 I’m currently learning 
   - Backend, Firebase, AWS, ES6, Sass
 - 💬 Ask me about 
